@@ -1,0 +1,43 @@
+{
+  "info": {
+    "_postman_id": "719e1406-04ef-4937-af17-1a03c19cd294",
+    "name": "SambalPay_Checkout_Flow",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48185375",
+    "_collection_link": "https://go.postman.co/collection/48185375-719e1406-04ef-4937-af17-1a03c19cd294?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Authentication (The Handshake)",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Inventory Lookup (GET /products)",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Secure Transaction (Add to Cart)",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Modification (Update Order)",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
